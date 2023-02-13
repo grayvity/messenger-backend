@@ -1,3 +1,5 @@
+# project шинээр үүсгэх заавар
+
 1. npm init
 2. npm i express
 3. create index.js
@@ -6,3 +8,13 @@
 6. npm i cors
 
 https://github.com/notestyle/task
+
+# энэ project -г ажиллуулах заавар
+
+## library суулгах
+
+`npm i`
+
+## ажиллуулах
+
+`npm start`
